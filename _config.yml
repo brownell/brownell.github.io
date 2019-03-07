@@ -7,7 +7,7 @@
 title: Brownell Chalstrom
 email: brownell@chalstrom.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Information about consulting, sailing, and other things
+  Consulting, sailing, and other things
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://brownell.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bchalstrom
