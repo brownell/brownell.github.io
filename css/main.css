@@ -1,3 +1,15 @@
 .nav-wrapper {position:fixed;left:50%;margin-left:-325px;}
 body {color:black !important;font-size:16px !important;line-height:24px !important;}
 nav {display:none !important;}
+@media (max-width:720px) {
+    .nav-wrapper {position:fixed;left:0 !important;margin-left:0 !important}
+    #banner {display:block !important;top:100px !important;}
+    .wrapper {margin-top:60px !important;}
+    header p {display:block !important;}
+    section {margin-top:170px !important;}
+  }
+  @media (max-width:480px) {
+    #banner {display:block !important; top:83px !important;}
+    header p {display:block !important;}
+    section {margin-top:60px !important;}
+  }
